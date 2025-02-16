@@ -16,3 +16,6 @@ In order to run this applications an api key needs to generated to connect third
 ```
 	npm start
 ```
+
+## Web App Video
+![Watch the video](https://github.com/maazsaiyed/flights/blob/main/web_app_video.mov)
