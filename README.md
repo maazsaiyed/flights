@@ -18,7 +18,7 @@ In order to run this applications an api key needs to generated to connect third
 ```
 
 ## Web App Video
-[![Watch a demo video](https://youtu.be/r0H9jASfNvg)
+[![Watch a demo video]](https://youtu.be/r0H9jASfNvg)
 
 <video src="https://youtu.be/r0H9jASfNvg" width="320" height="240" controls></video>
 
