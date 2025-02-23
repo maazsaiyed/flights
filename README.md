@@ -18,10 +18,4 @@ In order to run this applications an api key needs to generated to connect third
 ```
 
 ## Web App Video
-[![Watch a demo video]](https://github.com/maazsaiyed/flights/blob/main/web_app_video.mov)
-
-<video src="https://youtu.be/r0H9jASfNvg" width="320" height="240" controls></video>
-
-<video src="https://github.com/maazsaiyed/flights/blob/main/web_app_video.mov" width="320" height="240" controls></video>
-
-<iframe width="560" height="315" src="https://youtu.be/r0H9jASfNvg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch a demo video](https://youtu.be/r0H9jASfNvg)
